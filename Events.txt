@@ -1,0 +1,14 @@
+Event name :amr
+start date :a
+End date :a
+Place :a
+Start time :a
+Reminder time :a
+Status :a
+Event name :hager
+start date :a
+End date :s
+Place :s
+Start time :s
+Reminder time :s
+Status :s
